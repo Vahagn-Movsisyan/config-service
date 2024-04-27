@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Vahagn-Movsisyan/config-repository
+          uri: https://github.com/Vahagn-Movsisyan/config-repo
           default-label: main
           timeout: 5
           clone-on-start: true
